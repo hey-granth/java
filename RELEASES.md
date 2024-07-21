@@ -19,7 +19,7 @@ release to maven central via Github Action job named "Maven Release":
   job manually).
 * Should be in the OWNERS file.
 
-### Steps
+### Steps:
 
 #### Make sure the release job runs on the release branch
 
